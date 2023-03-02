@@ -97,8 +97,8 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
-    repo_id:
+    repo: https://github.com/burplecow/burplecow.github.io             # <gh-username>/<repo>
+    repo_id: 608854886
     category:
     category_id:
     mapping:           # optional, default to 'pathname'
