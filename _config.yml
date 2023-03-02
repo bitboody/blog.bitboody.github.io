@@ -84,7 +84,7 @@ img_cdn:
 avatar: https://avatars.githubusercontent.com/u/69832947?v=4
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 comments:
   active: giscus         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
@@ -99,8 +99,8 @@ comments:
   giscus:
     repo: https://github.com/burplecow/burplecow.github.io             # <gh-username>/<repo>
     repo_id: 608854886
-    category:
-    category_id:
+    category: Comments
+    category_id: 1
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
