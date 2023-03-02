@@ -84,7 +84,7 @@ img_cdn:
 avatar: https://avatars.githubusercontent.com/u/69832947?v=4
 
 # boolean type, the global switch for ToC in posts.
-toc: false
+toc: true
 
 comments:
   active: giscus         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
