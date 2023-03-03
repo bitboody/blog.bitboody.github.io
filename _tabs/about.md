@@ -5,7 +5,7 @@ order: 4
 ---
 
 <div class="profile-picture"  align="center">
-  <img src="https://avatars.githubusercontent.com/u/69832947?v=4"  height="200px"/>
+  <img src="profile/cow.png"  height="200px"/>
   <p class="no-print"></p>
   <div>
     <p align="center"><b>Abdalrhman A. Hassan</b></p>
