@@ -5,7 +5,7 @@ order: 4
 ---
 
 <div class="profile-picture"  align="center">
-  <img src="profile/cow.png"  height="200px"/>
+  <img src="https://pbs.twimg.com/profile_images/1631662554383523841/6paHJgAu_400x400.png"  height="200px"/>
   <p class="no-print"></p>
   <div>
     <p align="center"><b>Abdalrhman A. Hassan</b></p>
