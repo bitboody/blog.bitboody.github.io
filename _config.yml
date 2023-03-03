@@ -98,9 +98,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: burplecow/burplecow.github.io             # <gh-username>/<repo>
-    repo_id: 608854886
-    category: Comments
-    category_id: 1
+    repo_id: R_kgDOJEpjZg
+    category: General
+    category_id: DIC_kwDOJEpjZs4CUm5O
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
