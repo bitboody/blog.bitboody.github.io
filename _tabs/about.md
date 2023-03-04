@@ -16,14 +16,19 @@ order: 4
 
 <h2>Contents: </h2>
 - [Introduction](#introduction)
+  - [Background](#background)
 - [Technologies](#technologies)
 - [Copyright](#copyright)
 
 ## Introduction
 
-My name is Abdelrhman, and I am a junior Programmer / Software Engineer that is very passionate about what he does.
+My name is Abdalrhman, and I am a junior Programmer / Software Engineer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about & I am actively doing my best to improve my skills.
 
-I'd say I have a constant hunger for learning new concepts or technologies that I am curious about, I try to improve my skills as best as I can.
+### Background
+
+I am currently a high school student and will soon be a university student. I do not have much professional experience at the moment because I have to focus on my studies and improving my technical skills to be a competent programmer.
+
+------------------------------------------------
 
 ## Technologies
 
@@ -47,6 +52,7 @@ Below is a table that provides an overview of some of the technologies I am fami
 | C#                   || MongoDB              |
 | Bash                 || Digital Ocean        |
 
+------------------------------------------------
 
 ## Copyright
 
