@@ -26,9 +26,11 @@ My name is Abdalrhman, and I am a junior Programmer / Software Engineer that is 
 
 ### Background
 
-I am currently a high school student and will soon be a university student. I do not have much professional experience at the moment because I have to focus on my studies and improving my technical skills to be a competent programmer.
+I am currently a high school student and will soon be a university student. I do not have much professional experience at the moment because I am focusing on my studies and on improving my technical skills to become a competent programmer.
+
 
 ------------------------------------------------
+
 
 ## Technologies
 
@@ -52,7 +54,9 @@ Below is a table that provides an overview of some of the technologies I am fami
 | C#                   || MongoDB              |
 | Bash                 || Digital Ocean        |
 
+
 ------------------------------------------------
+
 
 ## Copyright
 
