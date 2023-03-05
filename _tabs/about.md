@@ -22,7 +22,7 @@ order: 4
 
 ## Introduction
 
-My name is Abdalrhman, and I am a junior Programmer / Software Engineer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about & I am actively doing my best to improve my skills.
+My name is Abdalrhman, and I am a junior Programmer / Software Engineer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about and I am actively doing my best to improve my skills.
 
 ### Background
 
@@ -49,7 +49,7 @@ Below is a table that provides an overview of some of the technologies I am fami
 | Programming Languages|| Other Technologies   |
 | -------------------- || -------------------- |
 | Javascript/TypeScript|| Node                 |
-| HTML/CSS             || Git & Github         |
+| HTML/CSS             || Git and GitHub       |
 | Python               || Linux                |
 | C#                   || MongoDB              |
 | Bash                 || Digital Ocean        |
@@ -64,4 +64,5 @@ Below is a table that provides an overview of some of the technologies I am fami
 
 
 - [Larry the cow](https://wiki.gentoo.org/wiki/File:Larry-the-cow-full.svg)
+- [Jeykll](https://jekyllrb.com/)
 - [Chivry website theme](https://github.com/cotes2020/jekyll-theme-chirpy)
