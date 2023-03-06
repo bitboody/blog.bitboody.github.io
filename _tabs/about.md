@@ -22,7 +22,7 @@ order: 4
 
 ## Introduction
 
-My name is Abdalrhman, and I am a junior Programmer / Software Engineer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about and I am actively doing my best to improve my skills.
+My name is Abdalrhman, and I am a junior Programmer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about and I am actively doing my best to improve my skills.
 
 ### Background
 
