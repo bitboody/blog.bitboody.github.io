@@ -49,10 +49,11 @@ Below is a table that provides an overview of some of the technologies I am fami
 | Programming Languages|| Other Technologies   |
 | -------------------- || -------------------- |
 | Javascript/TypeScript|| Node                 |
-| HTML/CSS             || Git and GitHub       |
-| Python               || Linux                |
+| HTML                 || Git and GitHub       |
+| CSS                  || Linux                |
 | C#                   || MongoDB              |
 | Bash                 || Digital Ocean        |
+| Python               || (Neo)vim             |
 
 
 ------------------------------------------------
