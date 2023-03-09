@@ -36,7 +36,7 @@ I am currently a high school student and will soon be a university student. I do
 
 <div>
   <br>
-  <img src="https://intoli.com/blog/terminal-recorders/img/og-image.gif" width="300px" class="gopher-image">
+  <img src="https://github.com/windwp/windline.nvim/wiki/screenshot/mutli_filetype.gif" width="300px" class="gopher-image">
   <br>
 </div>
 
