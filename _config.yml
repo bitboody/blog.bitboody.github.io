@@ -19,9 +19,9 @@ timezone: Africa/Cairo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Boody                # the main title
+title: Boody
 
-tagline: Software Engineer  # it will display as the sub-title
+tagline: Programmer
 
 description: >-                        # used by seo meta and the atom feed
   A website for documenting the process of building my projects.
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name:  brplcc
-  email: bodebi639@gmail.com             # change to your email address
+  email: bodebi639@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/brplcc
@@ -81,7 +81,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1631662554383523841/6paHJgAu_400x400.png
+avatar: https://pbs.twimg.com/profile_images/1655906147537154049/kRpOldKn_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

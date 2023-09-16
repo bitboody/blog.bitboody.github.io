@@ -5,12 +5,12 @@ order: 4
 ---
 
 <div class="profile-picture"  align="center">
-  <img src="https://pbs.twimg.com/profile_images/1631662554383523841/6paHJgAu_400x400.png"  height="200px"/>
+  <img src="https://pbs.twimg.com/profile_images/1655906147537154049/kRpOldKn_400x400.jpg"  height="200px"/>
   <p class="no-print"></p>
   <div>
     <p align="center"><b>brplc</b></p>
-    <p align="center" class="no-site"><i>Programming enthusiast</i></p>
-    <p align="center">Junior Full Stack Software Engineer<br>Cairo, Egypt &nbsp;🇪🇬</p>
+    <p align="center" class="no-site"><i>Programming</i></p>
+    <p align="center">Full Stack Engineer<br>Cairo, Egypt &nbsp;🇪🇬</p>
   </div>
 </div>
 
@@ -22,11 +22,11 @@ order: 4
 
 ## Introduction
 
-My name is Abdalrhman, and I am a junior Programmer that is quite passionate about what he does. I have a significant pry for learning new concepts or technologies that I am curious about and I am actively doing my best to improve my skills.
+My name is Abdulrhman, and I am a yet another programmer :).
 
 ### Background
 
-I am currently a high school student and will soon be a university student. I do not have much professional experience at the moment because I am focusing on my studies and on improving my technical skills to become a competent programmer.
+I am currently a high school student, soon to be a university student.
 
 
 ------------------------------------------------
@@ -46,14 +46,13 @@ Below is a table that provides an overview of some of the technologies I am fami
 
 <br>
 
-| Programming Languages|| Other Technologies   |
-| -------------------- || -------------------- |
-| Javascript/TypeScript|| Node                 |
-| HTML                 || Git and GitHub       |
-| CSS                  || Linux                |
-| C#                   || MongoDB              |
-| Bash                 || Digital Ocean        |
-| Python               || (Neo)vim             |
+| Programming Languages || Technologies         |
+| --------------------- || -------------------- |
+| Javascript/TypeScript || Node                 |
+| HTML                  || Git                  |
+| CSS                   || Linux                |
+| Bash                  || Digital Ocean        |
+| Python                || Vim                  |
 
 
 ------------------------------------------------
@@ -63,7 +62,5 @@ Below is a table that provides an overview of some of the technologies I am fami
 
 `DISCLAIMER:` I hereby declare that I do not own the rights to the following items. All rights belong to their rightful owner. No Copyright Infringement Intended.
 
-
-- [Larry the cow](https://wiki.gentoo.org/wiki/File:Larry-the-cow-full.svg)
 - [Jeykll](https://jekyllrb.com/)
 - [Chivry website theme](https://github.com/cotes2020/jekyll-theme-chirpy)
