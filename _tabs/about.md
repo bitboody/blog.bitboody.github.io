@@ -9,7 +9,7 @@ order: 4
   <p class="no-print"></p>
   <div>
     <p align="center"><b>brplcc</b></p>
-    <p align="center" class="no-site"><i>Programming</i></p>
+    <!-- <p align="center" class="no-site"><i>Programming</i></p> -->
     <p align="center">Full Stack Engineer<br>Cairo, Egypt &nbsp;🇪🇬</p>
   </div>
 </div>
