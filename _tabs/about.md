@@ -8,7 +8,7 @@ order: 4
   <img src="https://pbs.twimg.com/profile_images/1655906147537154049/kRpOldKn_400x400.jpg"  height="200px"/>
   <p class="no-print"></p>
   <div>
-    <p align="center"><b>brplc</b></p>
+    <p align="center"><b>brplcc</b></p>
     <p align="center" class="no-site"><i>Programming</i></p>
     <p align="center">Full Stack Engineer<br>Cairo, Egypt &nbsp;🇪🇬</p>
   </div>
@@ -22,7 +22,7 @@ order: 4
 
 ## Introduction
 
-My name is Abdulrhman, and I am a yet another programmer :).
+My name is Abdulrhman, but I also go by brplcc and Boody sometimes, and I am yet another programmer.
 
 ### Background
 
