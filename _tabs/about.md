@@ -10,7 +10,7 @@ order: 4
   <div>
     <p align="center"><b>brplcc</b></p>
     <!-- <p align="center" class="no-site"><i>Programming</i></p> -->
-    <p align="center">Full Stack Engineer<br>Cairo, Egypt &nbsp;🇪🇬</p>
+    <p align="center">Programmer<br>Cairo, Egypt &nbsp;🇪🇬</p>
   </div>
 </div>
 
@@ -22,11 +22,11 @@ order: 4
 
 ## Introduction
 
-My name is Abdulrhman, but I also go by brplcc and Boody sometimes, and I am yet another programmer.
+You can call me Boody, computer science and programming have been a passion of mine ever since I discovered such a thing at 5 / 6 years old.
 
 ### Background
 
-I am currently a high school student, soon to be a university student.
+Studying computer engineering at [MTI University](https://www.mti.edu.eg/) in Cairo, Egypt.
 
 
 ------------------------------------------------
@@ -48,9 +48,9 @@ Below is a table that provides an overview of some of the technologies I am fami
 
 | Programming Languages || Technologies         |
 | --------------------- || -------------------- |
-| Javascript/TypeScript || Node                 |
-| HTML                  || Git                  |
-| CSS                   || Linux                |
+| Javascript/TypeScript || Linux                |
+| GO                    || Firebase             |
+| HTML / CSS            || Git                  |
 | Bash                  || Digital Ocean        |
 | Python                || Vim                  |
 
@@ -60,7 +60,7 @@ Below is a table that provides an overview of some of the technologies I am fami
 
 ## Copyright
 
-`DISCLAIMER:` I hereby declare that I do not own the rights to the following items. All rights belong to their rightful owner. No Copyright Infringement Intended.
+I hereby declare that I do not own the rights to the following items. All rights belong to their rightful owner. No Copyright Infringement Intended.
 
 - [Jeykll](https://jekyllrb.com/)
 - [Chivry website theme](https://github.com/cotes2020/jekyll-theme-chirpy)
